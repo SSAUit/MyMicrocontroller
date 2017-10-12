@@ -2,6 +2,7 @@
 {
     public class Account
     {
+		//
         private string name;
         private string password;
         private bool isAdmin;
